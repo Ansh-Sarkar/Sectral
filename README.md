@@ -1,4 +1,7 @@
 ### 📚 Sectral (Mistral-7B_instruct.v0.1) 🚀
+
+Get the exact Kaggle Notebook to run here: [Sectral Kaggle Notebook](https://www.kaggle.com/code/anshsarkar18/sectral-mistral-7b-based-rag)
+
 **Retrieval augmented generation (RAG)** is a natural language processing (NLP) technique that combines the strengths of both retrieval- and generative-based artificial intelligence (AI) models. Based on the task assigned, the easiest and best suited way to extract insightful data without huge amounts of data analysis, in a short period of time, while being resistant to events as, changes in data formats, layouts, etc, was to implement a RAG based on a relatively lightweight model (`Mistral 7B`  in our case).
 
 The following notebook contains the code blocks required for the functioning of the CLI program that initializes a RAG at the backend and provides a chat based interactive interface to the user. The user has the ability to **load** data corresponding to a particular stock and then ask **questions** related to it. The user also has the ability to create and visualize important financial metrics via **plots** and get **insights** from the model itself.
