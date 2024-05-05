@@ -1,6 +1,5 @@
 ### 📚 Sectral (Mistral-7B_instruct.v0.1) 🚀
 
-**Quick Resources**
 - [x] Get the exact Kaggle Notebook to run here: [Sectral Kaggle Notebook](https://www.kaggle.com/code/anshsarkar18/sectral-mistral-7b-based-rag)
 - [x] Prefer Video Walkthroughs ? Check that out here: [Sectral Kaggle Walkthrough](https://drive.google.com/file/d/1a--MjRJX2I9K3C6Zqd9-SrWVVLkB2v5A/view?usp=sharing)
 
